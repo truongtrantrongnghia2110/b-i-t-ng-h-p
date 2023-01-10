@@ -4,3 +4,13 @@
 - [bai tap1](https://www.jdoodle.com/embed/v0/5I7L)
 - [baitap2](https://www.jdoodle.com/embed/v0/5Axu)
 - [baitap3](https://www.jdoodle.com/embed/v0/5Ayb)
+- # phần điều kiện if,else
+- [bai1](https://www.jdoodle.com/embed/v0/5F2W)
+- [bai2](https://www.jdoodle.com/embed/v0/5FTI)
+- [bai3]
+- # Cấu Trúc Vòng Lặp
+- [bai1]
+- [bai2](https://www.jdoodle.com/embed/v0/5FU7)
+- [bai3](https://www.jdoodle.com/embed/v0/5FUf)
+- # Bài Kiểm Tra tại lớp
+- [so1](https://www.jdoodle.com/embed/v0/5G2r)
